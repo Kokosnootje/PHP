@@ -3,7 +3,7 @@
 <title>Let's Play!</title>
 </head>
 <body>
-<h3>Rock, Paper, Scissors!</h3>
+<h3>Rock, Paper, Scissors! en Kevin!</h3>
 <?php
 session_start();
 if(!isset($_SESSION["played"]))
